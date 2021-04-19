@@ -31,6 +31,7 @@ com\pinyougou\pojo\TbGoodsDescExample$Criteria.class
 com\pinyougou\pojo\TbUser.class
 com\pinyougou\pojo\TbSpecificationExample$GeneratedCriteria.class
 com\pinyougou\pojo\TbItemCatExample$GeneratedCriteria.class
+com\pinyougou\pojo\entity\PageResult.class
 com\pinyougou\pojo\TbGoodsExample$Criteria.class
 com\pinyougou\pojo\TbPayLogExample$GeneratedCriteria.class
 com\pinyougou\pojo\TbGoodsDescExample.class
